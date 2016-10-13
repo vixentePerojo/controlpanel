@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded",
-    $ajaxUtils.sendGetRequest("/data/info.json",
+    $ajaxUtils.sendGetRequest("data/info.json",
         function (res) {
             console.log(res);
             var numeroUsuarios = res.oec;
