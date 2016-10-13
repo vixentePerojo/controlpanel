@@ -1,0 +1,8 @@
+C:\Users\Vicente.TRADINGMOTION\Documents\site-info\ControlPanel\ControlPanel\bin\Debug\ControlPanel.exe.config
+C:\Users\Vicente.TRADINGMOTION\Documents\site-info\ControlPanel\ControlPanel\bin\Debug\ControlPanel.exe
+C:\Users\Vicente.TRADINGMOTION\Documents\site-info\ControlPanel\ControlPanel\bin\Debug\ControlPanel.pdb
+C:\Users\Vicente.TRADINGMOTION\Documents\site-info\ControlPanel\ControlPanel\bin\Debug\Dapper.dll
+C:\Users\Vicente.TRADINGMOTION\Documents\site-info\ControlPanel\ControlPanel\bin\Debug\Dapper.xml
+C:\Users\Vicente.TRADINGMOTION\Documents\site-info\ControlPanel\ControlPanel\obj\Debug\ControlPanel.csprojResolveAssemblyReference.cache
+C:\Users\Vicente.TRADINGMOTION\Documents\site-info\ControlPanel\ControlPanel\obj\Debug\ControlPanel.exe
+C:\Users\Vicente.TRADINGMOTION\Documents\site-info\ControlPanel\ControlPanel\obj\Debug\ControlPanel.pdb

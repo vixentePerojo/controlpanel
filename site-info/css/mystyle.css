@@ -1,0 +1,48 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#mi-navbar-header{
+	background-color: #848482;
+	color: #fff;
+	border: 2px solid #000;
+}
+
+
+#logo-img {
+	background: url('../img/logo238x58.svg') no-repeat;
+	width: 258px;
+	height: 58px;
+}
+
+#box-info{
+	position: relative;
+	border: 2px solid #000;
+	height: 50px;
+	margin-bottom: 15px;
+	background-color: #848482
+}
+
+#box-info > #text-box{
+	border-bottom: 2px solid #000;
+	border-left: 2px solid #000;
+	position: absolute;
+	width: 100px;
+	top: 0px;
+	right: 0px;
+	height: auto;
+	background-color: #fff;
+	color: #000;
+	text-align: center;
+	font-size: 1.3em;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: #fff;
+}
+
+#mi-boton {
+	background-color: #fff;
+}
